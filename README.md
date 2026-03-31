@@ -1,2 +1,2 @@
-# Exercises
+# Exercises1
 SQL Fundamentals
